@@ -1,5 +1,5 @@
 ---
-layout: post
+layout : post
 ---
 Where people came from:
 
