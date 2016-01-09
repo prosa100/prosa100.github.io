@@ -8,8 +8,4 @@ I would like to add it like a submodule becuse it is under active development.
 This is not that simple becuse git submodules require you to not be root.
 The obvious solution is to use a symlink, but that does not work becuse I am using windows.
 I do not want to fork their repo becuse it's a template and I may change it at some point.
-For now, I will just download it and 
-
-```bash
-git submodule add https://github.com/gdg-managua/jekyll-mdl.git
-```
+For now, I will just install it manually.
