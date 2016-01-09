@@ -4,7 +4,7 @@ email: prosa100@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   I am Paul Rosa. I build biomedical devices to help people live life to the fullest. I am studying CS@UIUC. I work in [LaValle's VR Lab](http://msl.cs.uiuc.edu/~lavalle/).
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://prosa100.github.io # the base hostname & protocol for your site
+url: "http://prosa100.github.io" # the base hostname & protocol for your site
 twitter_username: prosa100
 github_username:  prosa100
 
