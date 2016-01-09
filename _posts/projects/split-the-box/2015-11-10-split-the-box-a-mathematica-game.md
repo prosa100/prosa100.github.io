@@ -1,5 +1,6 @@
 ---
 title : Split the box, A simple game in Mathematica.
+layout: post
 type : project
 tags : projects, mathematica, game-dev
 ---
