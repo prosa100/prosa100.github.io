@@ -11,6 +11,6 @@ I am studying CS@UIUC. I work in [LaValle's VR Lab](http://msl.cs.uiuc.edu/~lava
 ###### Template
 I use the Google Developers Group Managua's jekyll-mdl template.
 
-> Licensed under the Apache 2.0 license.
-> See the [LICENSE](https://github.com/gdg-managua/jekyll-mdl/blob/master/LICENSE.md) file for more details.
-> Copyright © 2015 [Google Developers Group Managua](http://www.gdgmanagua.org).
+	Licensed under the Apache 2.0 license.
+	See the [LICENSE](https://github.com/gdg-managua/jekyll-mdl/blob/master/LICENSE.md) file for more details.
+	Copyright © 2015 [Google Developers Group Managua](http://www.gdgmanagua.org).
