@@ -1,5 +1,5 @@
 ---
-layout:post
+layout : post
 ---
 
 I wrote something so I can see my hands in vr using unity 3d.
