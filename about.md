@@ -3,8 +3,8 @@ layout: page
 title: About
 permalink: /about/
 ---
-###### Paul Rosa's Personal website.
-I am Paul Rosa.
+###### Ada Rosa's Personal website.
+I am Ada Rosa.
 I build biomedical devices to help people live life to the fullest.
 I am studying CS@UIUC. I work in [LaValle's VR Lab](http://msl.cs.uiuc.edu/~lavalle/).
 
